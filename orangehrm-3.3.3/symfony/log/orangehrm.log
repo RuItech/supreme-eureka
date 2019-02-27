@@ -1,0 +1,10 @@
+[27-Mar-2017 06:15:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ruitechc/public_html/orangehrm-3.3.3/install.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/ruitechc/public_html/orangehrm-3.3.3/install.php on line 210
+[27-Mar-2017 06:16:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/ruitechc/public_html/orangehrm-3.3.3/install.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/ruitechc/public_html/orangehrm-3.3.3/install.php on line 210
+[27-Mar-2017 06:22:48 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/ruitechc/public_html/orangehrm-3.3.3/install.php on line 222
+[27-Mar-2017 06:22:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruitechc/public_html/orangehrm-3.3.3/install.php:222) in /home/ruitechc/public_html/orangehrm-3.3.3/install.php on line 307

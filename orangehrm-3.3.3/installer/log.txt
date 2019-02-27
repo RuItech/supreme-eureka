@@ -1,0 +1,20 @@
+Client Info
+
+User Agent : Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Remote Address : 41.89.60.50
+
+Server Info
+
+Host : ruitech.co.ke
+PHP Version : 5.6.29
+Server : Apache
+Admin : webmaster@ruitech.co.ke
+
+Document Root : /home/ruitechc/public_html
+ROOT_PATH : /home/ruitechc/public_html/orangehrm-3.3.3
+
+OrangeHRM Installation Log
+
+Mon, 27 Mar 2017 06:23:57 -0500 DB Creation - Starting
+Mon, 27 Mar 2017 06:23:57 -0500 DB Creation - Done
+Mon, 27 Mar 2017 06:23:57 -0500 DB Creation - No Errors
